@@ -62,7 +62,7 @@ export default function Header() {
   return (
     <header className="absolute top-0 left-0 w-full z-50 py-4">
       <div className="container mx-auto px-4">
-        <div className="flex items-center justify-between bg-black/60 backdrop-blur-md rounded-full py-3 px-8 ">
+        <div className="flex items-center justify-between bg-black/60 backdrop-blur-xl rounded-full py-3 px-8 ">
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <Image
