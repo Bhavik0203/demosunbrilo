@@ -39,7 +39,7 @@ export default function Banner() {
           className="w-full h-full object-cover scale-105"
           style={{ objectPosition: 'center' }}
         >
-          <source src="/images/sunbirlovideo1.mp4" type="video/mp4" />
+          <source src="/images/sunbirlovideo.mp4" type="video/mp4" />
         </video>
       </div>
       {/* Edge masks to remove blur/glow at top and bottom */}
